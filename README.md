@@ -153,10 +153,5 @@ This project is licensed under the **MIT License**. Feel free to use and contrib
 
 If you like this project, give it a ⭐ on GitHub and share it with your community! PRs and feature ideas are always welcome.
 
----
-
-```
-
----
 
 
