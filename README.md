@@ -89,7 +89,7 @@ Here’s how LinguaMood works step-by-step:
 
 
 # 1. Clone the repo
-git clone https://github.com/yourusername/LinguaMood.git
+git clone https://github.com/2KRISHNAYADAV/LinguaMood.git
 cd LinguaMood
 
 # 2. Create virtual environment
