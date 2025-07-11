@@ -1,0 +1,7 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+GHO,IHR07,Human resources,,,
+GHO,MH_1,Mental health policy,,,
+GHO,MH_25,Stand-alone policy or plan for mental health,,,
+GHO,MH_3,Stand-alone law for mental health,,,
+GHO,MH_4,Government expenditures on mental health as a percentage of total government expenditures on health (%),,,
+GHO,MH_5,Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%),,,
